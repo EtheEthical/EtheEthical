@@ -12,7 +12,7 @@ Xavier High School - Class of 2028
 
 ### Contributions:
 - Xavier High School FullMetal Kestrels FTC Team - 2024-2025 [Java]
-- Xavier High School SemiPlatnium Penguins FTC Team - 2025-Present [Java]
+- Xavier High School SemiPlatinum Penguins FTC Team - 2025-Present [Java]
 
 
 
